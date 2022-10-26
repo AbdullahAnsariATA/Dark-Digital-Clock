@@ -18,4 +18,5 @@ function clock() {
     secDom.innerHTML = currentSec;
 }
 
+
 setInterval(clock, 1000);
